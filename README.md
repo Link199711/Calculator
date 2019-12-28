@@ -9,7 +9,7 @@ In this project I implement two calculators in C++, mainly including the knowled
 I implement a polynomials math calculator included in the file "Poly_Cal". This calculator is able to conduct the addition, subtraction, and multiplication of any polynomials. 
 
 Here is an example:
-https://github.com/Link199111/Calculator/raw/master/pic/input1.png
+![](https://github.com/Link199111/Calculator/raw/master/pic/input1.png)
 
 It can also derivative any polynomial and show the result.
 
